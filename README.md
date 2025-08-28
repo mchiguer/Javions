@@ -5,7 +5,7 @@ This repo contains only the `Javions` source code
 Large and generated files (e.g. ADS-B recordings .bin > 100 MB, OSM tile cache, `out/`) are not versioned to keep the repo lightweight and within GitHub limits.
 **If you need the rest of the project (large datasets/binaries and caches), please contact me directly.**
 
-### Goals of this project
+## Goals of this project
 - Render a smooth, interactive map with aircraft overlays.
 - Parse raw ADS-B frames and maintain up-to-date aircraft states.
 - Provide a usable UI: table view, status line, and quick navigation.
